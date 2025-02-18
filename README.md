@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prabhas mekala, currently pursuing my B.tech degree
 - 👀 I’m interested in data structures and algorithms, UI/UX design and i love to use recursion functions and back-tracking
-- 🌱 I’m currently learning java, advanced DSA, python
+- 🌱 I’m currently learning Web dev, advanced DSA, pytorch
 - 💞️ I’m looking to collaborate on Artificial intelligence projects on image editing
 - 📫 How to reach me- my email: mjayanandaprabhas617@gmail.com
 
