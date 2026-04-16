@@ -47,13 +47,13 @@ Open to collaborating on projects that push what's possible with AI & the web.
   <a href="https://www.linkedin.com/in/prabhasmekala">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:prabhasmekala1@gmail.com">
     <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/prabha_g5">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/prabha_infinity">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" />
   </a>
 </p>
