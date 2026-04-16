@@ -58,7 +58,6 @@ Open to collaborating on projects that push what's possible with AI & the web.
   </a>
 </p>
 
----
 
 
 <!---
