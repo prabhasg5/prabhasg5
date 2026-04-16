@@ -57,7 +57,7 @@ Open to collaborating on projects that push what's possible with AI & the web.
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhasg5&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!---
