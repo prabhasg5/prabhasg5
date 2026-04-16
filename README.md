@@ -12,7 +12,7 @@ Currently working on StudyBuddy (AI tutor with 3D avatars) and Roomify (AR inter
 ---
 
 <p align="center">
-<i>still building things I once thought were impossible</i>
+<i>Still building things I once thought were impossible</i>
 </p>
 
 ---
@@ -27,12 +27,7 @@ Currently working on StudyBuddy (AI tutor with 3D avatars) and Roomify (AR inter
 
 ### why I build
 
-I don’t just like solving problems.  
-I like making things feel different.
-
-Interfaces that respond.  
-Systems that explain.  
-Ideas that move.
+*Because I'm here to Learn, Build, Make an Impact*
 
 ---
 
@@ -52,13 +47,19 @@ Open to collaborating on projects that push what's possible with AI & the web.
   <a href="https://www.linkedin.com/in/prabhasmekala">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" />
+  </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhasg5&theme=tokyonight&hide_border=true"/>
-</p>
 
 <!---
 prabhasg5/prabhasg5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
